@@ -1,0 +1,55 @@
+.top-text p {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25.3px;
+  letter-spacing: 0.01em;
+  color: #cccccc;
+}
+
+.images {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.menus {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.friend-text {
+  width: 306px;
+  height: 48px;
+  color: #cccccc;
+  margin-top: 39px;
+}
+
+.friend-text p {
+  font-size: 18px;
+  font-weight: 450;
+  line-height: 24px;
+}
+
+.settings p {
+  width: 306px;
+  height: 100px;
+  color: #cccccc;
+  margin-top: 21px;
+  font-size: 18px;
+  font-weight: 450;
+  line-height: 25px;
+}
+
+.setings-btn {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22.77px;
+  letter-spacing: 0.14em;
+  color: #171717;
+  padding: 20px 64px;
+  background-color: #fff;
+  border-radius: 40px;
+  margin-top: 23px;
+  margin-left: 36px;
+}
